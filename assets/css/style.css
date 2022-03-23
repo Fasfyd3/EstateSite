@@ -583,7 +583,7 @@ list-style: none;
 }
 .foot_set
 {
-    
+
     padding-top: 10px;
 }
 .w450px
@@ -648,6 +648,7 @@ color: #6F7278;
     border-radius: 10px;
     margin-right: 15px;
     color: #FFFFFF;
+    cursor: pointer;
 }
 .df_center
 {
